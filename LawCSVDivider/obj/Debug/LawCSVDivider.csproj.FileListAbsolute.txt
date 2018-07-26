@@ -1,0 +1,10 @@
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\bin\Debug\LawCSVDivider.exe.config
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\bin\Debug\LawCSVDivider.exe
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\bin\Debug\LawCSVDivider.pdb
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\bin\Debug\CsvHelper.dll
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\bin\Debug\CsvHelper.xml
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\obj\Debug\LawCSVDivider.csprojAssemblyReference.cache
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\obj\Debug\LawCSVDivider.csproj.CoreCompileInputs.cache
+C:\Users\wish\source\repos\LawCSVDivider\LawCSVDivider\obj\Debug\LawCSVDivider.csproj.CopyComplete
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\obj\Debug\LawCSVDivider.exe
+c:\users\wish\source\repos\LawCSVDivider\LawCSVDivider\obj\Debug\LawCSVDivider.pdb
